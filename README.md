@@ -23,18 +23,18 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## OUTPUT:
 ## WHOIS:
-![ethical 1](https://github.com/deepikasrinivasans/InformationGathering/assets/119393935/d30bfbf7-4159-4090-9b89-6928995dc8b8)
+![ethical5(https://github.com/deepikasrinivasans/InformationGathering/assets/119393935/d63edbd4-c3c3-49a8-bd92-7cf3a5514e51)
 ## IP2LOCATION:
-![ethical 2](https://github.com/deepikasrinivasans/InformationGathering/assets/119393935/be6baaba-740b-45d0-afe2-8d6868e8fd75)
+![ethical6(https://github.com/deepikasrinivasans/InformationGathering/assets/119393935/569eb9de-cdc3-4845-88a0-6607f8c4dae4)
 ## PING:
-![ethical 3](https://github.com/deepikasrinivasans/InformationGathering/assets/119393935/8db70663-2fa1-4e48-880b-9b16cff5cc58)
+![ethical1](https://github.com/deepikasrinivasans/InformationGathering/assets/119393935/8cea561b-7b78-4759-8f46-ae44fd046672)
 ## WEB ARCHIVE:
-![ethical 4](https://github.com/deepikasrinivasans/InformationGathering/assets/119393935/c16d4fbf-4e2a-4927-bbb0-0dfd4451a553)
+![ethical3](https://github.com/deepikasrinivasans/InformationGathering/assets/119393935/e6b88cfd-bb30-4164-ac07-a9cd929a45b2)
 ## NMAP:
-![ethical 5](https://github.com/deepikasrinivasans/InformationGathering/assets/119393935/be7b5b97-e0bb-4705-9ae9-24ffee719a13)
+![ethical2](https://github.com/deepikasrinivasans/InformationGathering/assets/119393935/95b7b167-2cbe-4da9-9d93-e1ae656f27b2)
 ## WHATWEB:
-![ethical 6](https://github.com/deepikasrinivasans/InformationGathering/assets/119393935/c2bac181-acbc-4df9-acf5-d67b10220714)
+![ethical7](https://github.com/deepikasrinivasans/InformationGathering/assets/119393935/bb5a708d-d2eb-4cb2-88ae-82116bd8b44d)
 ## TRACEROUTE:
-![ethical 7](https://github.com/deepikasrinivasans/InformationGathering/assets/119393935/47708383-eed6-49ff-bbce-2a0bc9a57f0c)
+![ethical4](https://github.com/deepikasrinivasans/InformationGathering/assets/119393935/d95f64bb-eeaf-461a-a92c-a3a5cc3e13ed)
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
