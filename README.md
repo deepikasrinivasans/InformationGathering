@@ -23,9 +23,9 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## OUTPUT:
 ## WHOIS:
-![ethical5(https://github.com/deepikasrinivasans/InformationGathering/assets/119393935/d63edbd4-c3c3-49a8-bd92-7cf3a5514e51)
+![ethical5](https://github.com/deepikasrinivasans/InformationGathering/assets/119393935/d63edbd4-c3c3-49a8-bd92-7cf3a5514e51)
 ## IP2LOCATION:
-![ethical6(https://github.com/deepikasrinivasans/InformationGathering/assets/119393935/569eb9de-cdc3-4845-88a0-6607f8c4dae4)
+![ethical6](https://github.com/deepikasrinivasans/InformationGathering/assets/119393935/569eb9de-cdc3-4845-88a0-6607f8c4dae4)
 ## PING:
 ![ethical1](https://github.com/deepikasrinivasans/InformationGathering/assets/119393935/8cea561b-7b78-4759-8f46-ae44fd046672)
 ## WEB ARCHIVE:
